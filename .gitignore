@@ -1,0 +1,23 @@
+# System and IDE files
+.idea
+.vscode
+
+# Vendors
+node_modules/
+
+# Build
+debug/
+dist/
+docs/
+coverage/
+npm-debug.log
+output/
+yarn.lock
+.tsbuildinfo
+.husky/
+
+# Jest
+#
+.jest/
+coverage/
+__snapshots__/
